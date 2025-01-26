@@ -17,3 +17,5 @@ Currently, this machine learning core is capable of detecting the KillAura of se
 
 [Thanks to niggachain2layer](https://packaged-media.redd.it/5nyrqaurczae1/pb/m2-res_360p.mp4?m=DASHPlaylist.mpd&v=1&e=1737417600&s=d0c16a39be6c2eca8ea4687e133db55c0f940bcd)
 
+[Benzin IA preview against KillAura's](https://www.youtube.com/watch?v=TcMrpp0YDLo)
+
